@@ -1,0 +1,10 @@
+- https://explainshell.com/ --> Explica comandos
+- https://gist.github.com/xirixiz/b6b0c6f4917ce17a90e00f9b60566278 --> Claves ssh
+- https://chmod-calculator.com/ --> Calculadora de chmod
+- https://crontab.guru/ --> Calculadora de crontab
+- ......
+- https://www.torproject.org/download/ --> Instalar TOR Browser
+- https://community.torproject.org/es/onion-services/ --> URL de onion
+- https://community.torproject.org/onion-services/setup/install/ --> Instalar TOR
+- https://www.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion/ --> Newyorktimes .onion
+- https://cve.mitre.org --> Vulnerabilidades del so
